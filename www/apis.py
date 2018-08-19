@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-__author__ = 'hurricane'
+__author__ = 'hurricanes'
 
 '''
 JSON API definition.
